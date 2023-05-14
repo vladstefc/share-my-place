@@ -1,4 +1,4 @@
-This project was during the 'JavaScript - The Complete Guide 2023 (Beginner + Advanced)' course made by Maximilian Schwarzmüller.
+This project was done during the 'JavaScript - The Complete Guide 2023 (Beginner + Advanced)' course made by Maximilian Schwarzmüller.
 
 With this website you can get your location and share it with others, or you can search for an address and it will be pinned on the map.
 
